@@ -4,7 +4,7 @@ import SecondImg from "../assets/main/image6.jpeg";
 
 const About = () => {
   return (
-    <div name="about" className="w-full h-screen bg-[#393E46] text-gray-300 py-10">
+    <div name="about" className="w-full h-screen bg-[#393E46] text-gray-300 py-10 flex">
       <div className="flex flex-col justify-center items-center w-full h-screen">
         <div className="max-w-[1200px] w-full grid grid-cols-2 gap-8">
           <div className="sm:text-right pb-8 pl-4">
